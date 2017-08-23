@@ -108,3 +108,7 @@ body {
     font-size:small;
 }
 
+.th {
+    white-space: nowrap;
+}
+
