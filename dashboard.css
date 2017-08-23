@@ -106,6 +106,7 @@ body {
 
 .table {
     font-size:small;
+    table-layout:fixed
 }
 
 .th {
