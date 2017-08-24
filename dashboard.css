@@ -113,7 +113,13 @@ th {
     white-space: nowrap;
 }
 
-tr {
-    white-space: nowrap;
-}
+.cols3 col:nth-child(1){width:50px;}
+.cols3 col:nth-child(2){width:20px;}
+.cols3 col:nth-child(3){width:20px;}
+
+.cols4 col:nth-child(1){width:50px;}
+.cols4 col:nth-child(2){width:20px;}
+.cols4 col:nth-child(3){width:20px;}
+.cols4 col:nth-child(4){width:20px;}
+
 
