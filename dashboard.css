@@ -106,11 +106,6 @@ body {
 
 table {
     font-size:small;
-    table-layout:fixed
-}
-
-th {
-    white-space: nowrap;
 }
 
 .cols3 col:nth-child(1){width:50px;}
