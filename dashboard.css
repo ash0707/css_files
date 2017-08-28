@@ -109,7 +109,8 @@ table {
 }
 
 li.current {
-    background: #4a4ae8;
+    color: #fff;
+    background: #8f8fef;
 }
 
 
