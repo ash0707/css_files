@@ -113,12 +113,6 @@ li.current {
 }
 
 /* Print specific */
-#header,
-#nav-menu,
-#sidebar {
-    display: none;
-}
-
 @media all {
 	.page-break	{ display: none; }
 }
