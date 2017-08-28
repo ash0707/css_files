@@ -72,12 +72,6 @@ body {
 
 .main {
   padding: 20px;
-  top: 51px;
-  bottom: 0;
-  left: 100px;
-  display:flex;
-  align-items:stretch;
-  position:relative;
 }
 @media (min-width: 768px) {
   .main {
@@ -118,12 +112,20 @@ li.current {
     background: #8f8fef;
 }
 
+/* Print specific */
 #header,
 #nav-menu,
 #sidebar {
     display: none;
 }
 
+@media all {
+	.page-break	{ display: none; }
+}
+
+@media print {
+	.page-break	{ display: block; page-break-before: always; }
+}
 
 
 
