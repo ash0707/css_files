@@ -113,4 +113,30 @@ li.current {
     background: #8f8fef;
 }
 
+.page {
+	  position: relative;
+	  width: 210mm;
+	  min-height: 297mm;
+	  padding: 0mm;
+	  margin: 10mm auto;
+	  /* border: 1px #D3D3D3 solid; */
+	  border-radius: 5px;
+	  background: white;
+	  /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
+ }
+
+body {
+	  width: 100%;
+	  height: 100%;
+	  margin: 0;
+	  padding: 0;
+	  background-color: #FAFAFA;
+	  font-size: 1.1rem;
+	  line-height: 1.3;
+ }
+
+
+
+
+
 
