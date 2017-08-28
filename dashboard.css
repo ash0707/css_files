@@ -55,29 +55,26 @@ body {
   margin-bottom: 20px;
   margin-left: -20px;
 }
-.nav-sidebar > li > link {
+.nav-sidebar > li > a {
   padding-right: 20px;
   padding-left: 20px;
 }
-.nav-sidebar > .active > link,
-.nav-sidebar > .active > link:hover,
-.nav-sidebar > .active > link:focus {
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
   color: #fff;
   background-color: #428bca;
 }
 
-body, html {
-  height: 100%;
-}
 /*
  * Main content
  */
 
 .main {
   padding: 20px;
-  height:90%;
-  min-height:90%;
-  min-width:80%;
+  top: 51px;
+  bottom: 0;
+  left: 100px;
   display:flex;
   align-items:stretch;
   position:relative;
