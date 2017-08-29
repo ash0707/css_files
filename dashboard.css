@@ -112,6 +112,8 @@ li.current {
     background: #8f8fef;
 }
 
+
+
 /* Print specific */
 @media all {
 	.page-break	{ display: none; }
@@ -121,7 +123,9 @@ li.current {
 	.page-break	{ display: block; page-break-before: always; }
 }
 
-
+p {
+   font-size: 10px !important;
+}
 
 
 
