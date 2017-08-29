@@ -123,8 +123,11 @@ li.current {
 	.page-break	{ display: block; page-break-before: always; }
 }
 
-p {
-   font-size: 10px !important;
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
 }
 
 
