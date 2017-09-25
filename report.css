@@ -65,7 +65,7 @@ p{ margin-bottom: 1rem }
 
 .report-accent-header{ background: #65201F !important; -webkit-print-color-adjust: exact; }
 
-div.padded{ padding: 10px; }
+div.padded{ padding: 2px; }
 
 h6.padded, p.padded{ 
 	padding: 2px 5px; 
