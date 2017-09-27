@@ -85,7 +85,7 @@ table.reversed tr:nth-child(odd) { background-color: #D7DBE1; }
 table.reversed tr:nth-child(even) { background-color: white; }
 
 table{ 
-	font-size: 0.95rem; 
+	font-size: 1.1rem; 
 	border-spacing: 0;
    border-collapse: collapse;
 }
@@ -111,7 +111,7 @@ td, th { border: 0 }
 }
 
 .neutral {
-    background-color:white;
+    background-color:#D7DBE1;;
 }
 
 h1, h5, h6{ margin: 0 }
