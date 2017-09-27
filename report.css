@@ -103,15 +103,15 @@ table.tiny-header tr:first-child{
 td, th { border: 0 }
 
 .positive {
-    background-color:#27ef1c;
+    background-color:#27ef1c !important; -webkit-print-color-adjust: exact;
 }
 
 .negative {
-    background-color:#e25238;	
+    background-color:#e25238 !important; -webkit-print-color-adjust: exact;	
 }
 
 .neutral {
-    background-color:#D7DBE1;
+    background-color:#D7DBE1 !important; -webkit-print-color-adjust: exact;
 }
 
 h1, h5, h6{ margin: 0 }
