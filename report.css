@@ -102,15 +102,15 @@ table.tiny-header tr:first-child{
 
 td, th { border: 0 }
 
-.positive td{
+.positive {
     background-color:green;
 }
 
-.negative td{
+.negative {
     background-color:red;	
 }
 
-.neutral td{
+.neutral {
     background-color:white;
 }
 
