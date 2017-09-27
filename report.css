@@ -103,11 +103,11 @@ table.tiny-header tr:first-child{
 td, th { border: 0 }
 
 .positive {
-    background-color:green;
+    background-color:#27ef1c;
 }
 
 .negative {
-    background-color:red;	
+    background-color:#e25238;	
 }
 
 .neutral {
