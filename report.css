@@ -102,6 +102,18 @@ table.tiny-header tr:first-child{
 
 td, th { border: 0 }
 
+#positive th{
+    color:green;
+}
+
+#negative th{
+    color:red;	
+}
+
+#neutral th{
+    color:black;
+}
+
 h1, h5, h6{ margin: 0 }
 
 h6{ font-size: 1.425rem }
