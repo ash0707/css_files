@@ -116,6 +116,7 @@ td, th { border: 0 }
 
 h1, h5, h6{ margin: 0 }
 
+h5{ font-size: 1.6rem }
 h6{ font-size: 1.425rem }
 
 .no-padding {
