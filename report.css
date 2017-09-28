@@ -103,35 +103,35 @@ table.tiny-header tr:first-child{
 td, th { border: 0 }
 
 .positive-1 {
-    background-color:#8af791 !important; -webkit-print-color-adjust: exact;
+    background-color:#a7f9ac !important; -webkit-print-color-adjust: exact;
 }
 
 .positive-2 {
-    background-color:#5bf765 !important; -webkit-print-color-adjust: exact;
+    background-color:#66d66d !important; -webkit-print-color-adjust: exact;
 }
 
 .positive-3 {
-    background-color:#2ffc3d !important; -webkit-print-color-adjust: exact;
+    background-color:#38b740 !important; -webkit-print-color-adjust: exact;
 }
 
 .positive-4 {
-    background-color:#07f918 !important; -webkit-print-color-adjust: exact;
+    background-color:#039b0c !important; -webkit-print-color-adjust: exact;
 }
 
 .negative-1 {
-    background-color:#f26b59 !important; -webkit-print-color-adjust: exact;	
+    background-color:#f78774 !important; -webkit-print-color-adjust: exact;	
 }
 
 .negative-2 {
-    background-color:#f24d37 !important; -webkit-print-color-adjust: exact;	
+    background-color:#ce5440 !important; -webkit-print-color-adjust: exact;	
 }
 
 .negative-3 {
-    background-color:#f73218 !important; -webkit-print-color-adjust: exact;	
+    background-color:#b73622 !important; -webkit-print-color-adjust: exact;	
 }
 
 .negative-4 {
-    background-color:#f91f02 !important; -webkit-print-color-adjust: exact;	
+    background-color:#961501 !important; -webkit-print-color-adjust: exact;	
 }
 
 .neutral {
