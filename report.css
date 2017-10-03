@@ -68,7 +68,13 @@ p{ margin-bottom: 1rem }
 div.padded{ padding: 2px; }
 
 h6.padded, p.padded{ 
-	padding: 2px 0px 2px 5px; 
+	padding: 2px 5px; 
+	margin-top: 10px;
+	margin-bottom: 2px;
+}
+
+h6.padded_uneven, p.padded_uneven{ 
+	padding: 2px 0px; 
 	margin-top: 10px;
 	margin-bottom: 2px;
 }
