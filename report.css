@@ -73,12 +73,6 @@ h6.padded, p.padded{
 	margin-bottom: 2px;
 }
 
-h6.padded_uneven, p.padded_uneven{ 
-	padding: 2px 0px; 
-	margin-top: 10px;
-	margin-bottom: 2px;
-}
-
 .blue-text{ color: #8496B8; }
 
 table{ width: 100% }
