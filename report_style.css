@@ -35,7 +35,7 @@ body {
  }
  @media print {
 	  html, body {
-			width: 360;
+			width: 360mm;
 			height: 270mm;        
 	  }
 	  .page {
