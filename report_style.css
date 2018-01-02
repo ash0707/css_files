@@ -36,7 +36,7 @@ body {
  @media print {
 	  html, body {
 			width: 400mm;
-			height: 300mm;        
+			height: 290mm;        
 	  }
 	  .page {
 			margin: 0;
