@@ -81,10 +81,10 @@ table{ width: 100% }
 
 td{ padding: 2px 0px }
 
-tr:nth-child(even) { background-color: #D7DBE1 !important; -webkit-print-color-adjust: exact; }
+tr:nth-child(even) { background-color: #D7DBE1 }
 
-table.reversed tr:nth-child(odd) { background-color: #D7DBE1 !important; -webkit-print-color-adjust: exact; }
-table.reversed tr:nth-child(even) { background-color: white !important; -webkit-print-color-adjust: exact; }
+table.reversed tr:nth-child(odd) { background-color: #D7DBE1 }
+table.reversed tr:nth-child(even) { background-color: white }
 
 table{ 
 	font-size: 1.1rem; 
