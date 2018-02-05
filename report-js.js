@@ -5,3 +5,7 @@ $( document ).ready(function() {
 		});
 	}, 4000);
 });
+
+$('.header').click(function(){
+     $(this).toggleClass('expand').nextUntil('tr.header').slideToggle(100);
+});
